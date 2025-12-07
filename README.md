@@ -1,5 +1,5 @@
 # try-and-learn
-## first learning under Senior Brother Zhang Qi
+## first learning under Senior Brother Zhang Qi(测试分支1)
 
 1.吾日三省吾身
 
